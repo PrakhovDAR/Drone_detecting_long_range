@@ -1,0 +1,6 @@
+# Drone Detecting and Tracking > 2023-05-08 5:16pm
+https://universe.roboflow.com/symbiosis-institute-of-technology-pune/drone-detecting-and-tracking
+
+Provided by a Roboflow user
+License: CC BY 4.0
+

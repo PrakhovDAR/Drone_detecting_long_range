@@ -1,0 +1,10 @@
+path: D:\NIR\data\processed
+train: images/train
+val: images/valid
+test: images/test
+nc: 4
+names:
+  0: DRON
+  1: AIRPLANE
+  2: HELICOPTER
+  3: BIRDS

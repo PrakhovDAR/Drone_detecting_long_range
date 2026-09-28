@@ -1,0 +1,6 @@
+# drone-vs-bird > 2023-03-20 2:02pm
+https://universe.roboflow.com/dam-tpuul/drone-vs-bird-lanzg
+
+Provided by a Roboflow user
+License: CC BY 4.0
+

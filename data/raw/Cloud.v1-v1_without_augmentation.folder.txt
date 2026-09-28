@@ -1,0 +1,6 @@
+# Cloud > V1_without_augmentation
+https://universe.roboflow.com/testing-ib8lr/cloud-m2vmr
+
+Provided by a Roboflow user
+License: CC BY 4.0
+
